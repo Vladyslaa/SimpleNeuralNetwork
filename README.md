@@ -1,11 +1,7 @@
 # SimpleNeuralNetwork v1.0
 
----
-
 A small neural network written in *pure C++* that learns the XOR function in real-time using a single hidden layer.
 This project demonstrates a basic fully-connected feedforward network, backpropagation, and weight initialization using Xavier method. ANSI escape codes are used for colored console output.
-
----
 
 ## Features
 
@@ -23,8 +19,6 @@ Real-time training feedback:
 - Tracks best loss and corresponding epoch
 - Optionally displays final weights of the network
 - ANSI-colored output for better readability
- 
----
 
 ## Usage
 
@@ -74,10 +68,6 @@ Final XOR Evaluation:
 Would you like to see final weights? (y/n):
 ```
 
----
-
 ## Notes
 
 > Console must support ANSI escape codes for color output.
-
----
